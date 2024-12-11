@@ -28,5 +28,3 @@ To run this project locally:
    ```bash
    git clone https://github.com/yourusername/misty-moose-canoes.git
 
-
-Built in 2024
